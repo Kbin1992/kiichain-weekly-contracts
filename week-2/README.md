@@ -75,6 +75,10 @@ Network Name: KiiChain Testnet Oro
 Chain ID: 1336  
 Currency Symbol: KII
 
+
+Deployed Contract Address:
+0x3c0Bfc4f12703074dD013bE7555F9fC49cA462F7
+
 ## Official Links
 
 Website  
